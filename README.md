@@ -12,3 +12,8 @@ Includes MySQL queries and export-ready results for visualization in Tableau.
 ## 📄 Project Presentation
 
 [View the full project slide deck (PDF)](./Chinook_SQL_Project.pdf)
+
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rathwaj21)
