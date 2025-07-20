@@ -8,3 +8,7 @@ This project uses the Chinook sample music store database to demonstrate SQL ski
 ✅ Monthly revenue trends  
 
 Includes MySQL queries and export-ready results for visualization in Tableau.
+
+## 📄 Project Presentation
+
+[View the full project slide deck (PDF)](./Chinook_SQL_Project.pdf)
